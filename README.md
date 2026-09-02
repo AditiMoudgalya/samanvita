@@ -1,5 +1,15 @@
 # Samanvita
 
+---
+
+## Project Context
+
+Samanvita was **designed and built by Aditi Moudgalya** as a capstone project for the **Product Management using Generative and Agentic AI** Executive Education programme at **BITSoM × Masai**.
+
+The project covers the product journey from problem discovery and user research through product strategy, UX, AI workflow design, MVP development, orchestration, testing, and go-to-market thinking.
+
+---
+
 ### Seamless Coalescence via One-Click Deployment
 
 Samanvita is a B2B corporate travel orchestration platform designed to bring fragmented travel coordination into one connected workflow.
@@ -84,7 +94,7 @@ The prototype demonstrates the user-facing experience across the Samanvita trave
 
 ---
 
-## Product Architecture
+## MVP Technology Stack
 
 Samanvita separates the user experience, orchestration, intelligence, and data layers.
 
@@ -92,7 +102,7 @@ Samanvita separates the user experience, orchestration, intelligence, and data l
 | --- | --- |
 | **Front End** | Figma Make |
 | **Workflow Orchestration** | n8n |
-| **AI Research** | Google Gemini 3.6 Flash |
+| **AI Research** | Google Gemini Flash |
 | **Data Layer** | Google Sheets |
 | **Communication** | Gmail |
 | **Integration** | Webhooks |
@@ -137,7 +147,7 @@ AI generates recommendations, but approval authority remains deterministic and h
 - Live booking execution
 - Payment integrations
 - Enterprise travel-provider integrations
-- Group bookings above 10 travellers
+- Production-scale group booking workflows
 
 The MVP validates the orchestration experience rather than functioning as a production booking engine.
 
@@ -170,9 +180,7 @@ Initial target organisations include Indian SaaS, IT Services, Consulting, and E
 
 ## Product Positioning
 
-> **Seamless coalescence via one-click deployment.**
-
-Rather than treating travel research, policy evaluation, approvals, communication, and workflow management as isolated activities, Samanvita brings them together into a connected orchestration layer.
+> **Seamless Coalescence via One-Click Deployment**
 
 ---
 
@@ -188,23 +196,14 @@ Adoption begins with a controlled pilot — such as one department, travel purpo
 
 ---
 
-## Project Context
-
-Samanvita was **designed and built by Aditi Moudgalya** as a capstone project for the **Product Management using Generative and Agentic AI** Executive Education programme at **BITSoM × Masai**.
-
-The project covers the product journey from problem discovery and user research through product strategy, UX, AI workflow design, MVP development, orchestration, testing, and go-to-market thinking.
-
----
-
 ## Documentation
 
-Additional portfolio material for Samanvita includes:
+The repository includes:
 
 - Product Requirements Document (PRD)
-- Product Pitch Deck
-- Product Architecture
-- User Research
-- MVP Demo
+- Samanvita Workflow
+- MVP Demo Portal
+- Front-End Demo Screenshot
 
 These artefacts document the product thinking, implementation decisions, scope, and evolution of the MVP.
 
