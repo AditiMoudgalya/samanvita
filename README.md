@@ -152,6 +152,8 @@ The MVP validates the orchestration experience rather than functioning as a prod
 
 ## Product Metrics
 
+The top 3 metrics identified are:
+
 ### North Star Metric — Orchestration Success Rate
 Percentage of travel workflows successfully completed from request to workflow completion.
 
