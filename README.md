@@ -1,7 +1,5 @@
 # Samanvita
 
----
-
 ## Project Context
 
 Samanvita was **designed and built by Aditi Moudgalya** as a capstone project for the **Product Management using Generative and Agentic AI** Executive Education programme at **BITSoM × Masai**.
@@ -87,8 +85,7 @@ Confirmed itinerary and booking information are communicated to the employee.
 
 The functional front-end prototype can be explored here:
 
-**Samanvita MVP Demo Portal:**  
-https://elm-funnel-52543742.figma.site
+### [Samanvita MVP Demo Portal](https://elm-funnel-52543742.figma.site)
 
 The prototype demonstrates the user-facing experience across the Samanvita travel workflow.
 
@@ -202,8 +199,8 @@ The repository includes:
 
 - Product Requirements Document (PRD)
 - Samanvita Workflow
-- MVP Demo Portal
 - Front-End Demo Screenshot
+- [Samanvita MVP Demo Portal](https://elm-funnel-52543742.figma.site)
 
 These artefacts document the product thinking, implementation decisions, scope, and evolution of the MVP.
 
