@@ -173,7 +173,7 @@ Samanvita is designed primarily for enterprise teams involved in coordinating an
 
 **Travel Desk · Operations · HR · Administration · Finance**
 
-Initial target organisations include Indian SaaS, IT Services, Consulting, and Engineering companies with recurring corporate travel requirements.
+Initial target organisations include SaaS, IT Services, Consulting, and Engineering companies with recurring corporate travel requirements.
 
 ---
 
