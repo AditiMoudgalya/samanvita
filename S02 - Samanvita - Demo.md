@@ -1,3 +1,7 @@
+# Live Demo
+
+Please Note - Live demo for Samanvita is available on request.
+
 # Samanvita — Front-End Demo Portal
 
 The functional front-end prototype for Samanvita can be explored here:
